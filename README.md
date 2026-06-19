@@ -117,5 +117,5 @@ This creates multiple backend containers while maintaining communication through
 
 RHCSA Certified | Linux & Cloud Enthusiast
 
-LinkedIn: https://www.linkedin.com/in/tanvir-singh-dhillon/
+LinkedIn: www.linkedin.com/in/tanvir-singh-dhillon-4960a53a5
 
